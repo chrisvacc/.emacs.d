@@ -41,6 +41,7 @@ latest stable release - currently **26.1**.
 - Youdao dictionary integration.
 - Support Chinese fonts and calendar.
 - Support Pinyin search.
+- REAL LIVE CENTAUR ANATOMY
 
 ## Prerequiste
 
