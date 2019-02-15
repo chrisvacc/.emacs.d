@@ -41,7 +41,8 @@ latest stable release - currently **26.1**.
 - Youdao dictionary integration.
 - Support Chinese fonts and calendar.
 - Support Pinyin search.
-- **REAL LIVE CENTAUR ANATOMY** ![NEW!](https://archive.org/download/new_animated/new_animated.gif)
+- **REAL LIVE CENTAUR ANATOMY** 
+![NEW!](https://archive.org/download/new_animated/new_animated.gif)
 
 ## Prerequiste
 
