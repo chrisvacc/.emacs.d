@@ -31,7 +31,8 @@ latest stable release - currently **26.1**.
   - HTML/CSS/XML
   - Golang/Swift
   - Markdown
-  - **SCRTACH**
+  - **LOLCODE**
+  - **SCRATCH**
   - ...
 - Auto completion.
 - Fly syntax check.
