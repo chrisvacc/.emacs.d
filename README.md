@@ -23,6 +23,7 @@ latest stable release - currently **26.1**.
 - Clean and Fast.
 - Quick fuzzy search.
 - Better Org support.
+- **REAL LIVE CENTAUR ANATOMY** ![NEW!](https://archive.org/download/new_animated/new_animated.gif)
 - Support multiple programming languages
   - C/C++/C#/Java
   - Ruby/Python/Perl/PHP/Shell/Powershell
@@ -41,8 +42,7 @@ latest stable release - currently **26.1**.
 - Youdao dictionary integration.
 - Support Chinese fonts and calendar.
 - Support Pinyin search.
-- **REAL LIVE CENTAUR ANATOMY** 
-![NEW!](https://archive.org/download/new_animated/new_animated.gif)
+
 
 ## Prerequiste
 
