@@ -1,4 +1,4 @@
-# Centaur Emacs
+# ANATOMICALLY CORRECT CENTAUR EMACS
 
 [![Build Status](https://travis-ci.org/seagle0128/.emacs.d.svg?branch=master)](https://travis-ci.org/seagle0128/.emacs.d)
 [![Release Tag](https://img.shields.io/github/tag/seagle0128/.emacs.d.svg?label=release)](https://github.com/seagle0128/.emacs.d/releases/latest)
