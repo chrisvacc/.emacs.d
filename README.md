@@ -26,13 +26,13 @@ latest stable release - currently **26.1**.
 - **REAL LIVE CENTAUR ANATOMY** ![NEW!](https://archive.org/download/new_animated/new_animated.gif)
 - Support multiple programming languages
   - C/C++/C#/Java
+  - **LOLCODE**
+  - **SCRATCH**
   - Ruby/Python/Perl/PHP/Shell/Powershell
   - Javascript/Typescript/JSON/YAML
   - HTML/CSS/XML
   - Golang/Swift
   - Markdown
-  - **LOLCODE**
-  - **SCRATCH**
   - ...
 - Auto completion.
 - Fly syntax check.
